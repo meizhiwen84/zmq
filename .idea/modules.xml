@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zmq.iml" filepath="$PROJECT_DIR$/zmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zmq-common/zmq-common.iml" filepath="$PROJECT_DIR$/zmq-common/zmq-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zmq-common/zmq-network/zmq-network.iml" filepath="$PROJECT_DIR$/zmq-common/zmq-network/zmq-network.iml" />
+    </modules>
+  </component>
+</project>
